@@ -8,3 +8,12 @@ PIL/bin
 PIL/libs
 .qgl*
 Map2DFusion.pro
+
+# Ignore VSCode Settings
+.vscode/
+
+# Ignore PyCharm Project Configurations
+.idea/
+
+# ignore sample dataset
+phantom3-village-kfs/
